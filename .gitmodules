@@ -1,0 +1,3 @@
+[submodule "docker-bookstack"]
+	path = docker-bookstack
+	url = https://github.com/BCD-Metalproducts/docker-bookstack.git
